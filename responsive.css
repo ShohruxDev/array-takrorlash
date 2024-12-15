@@ -1,0 +1,85 @@
+@media screen and (max-width: 600px){
+  .flex{
+    a{
+        display: none;
+    }
+  }  
+  .plant{
+    b{
+        font-size: 20px;
+    }
+  }
+  .fg{
+    p{
+        font-size: 16.6px;
+    }
+  }
+  .plant-1{
+    flex-direction: column-reverse;
+    gap: 20px;
+    width: 140%;
+  }
+  .plant-2{
+    b{
+        font-size: 30px;
+    }
+  }
+  .plant-3{
+    width: 50%;
+  }
+  .yui{
+    width: 180%;
+    b{
+        font-size: 30px;
+    }
+  }
+  .bolk{
+   b{
+    margin-left: 400px;
+   }
+  }
+  .get{
+    flex-direction: column;
+    gap: 15px;
+  }
+  .get-0{
+    width: 100%;
+    b{
+        font-size: 35px;
+    }
+  }
+  .get-2{
+    b{
+        font-size: 20px;
+    }
+  }
+  .pol{
+    flex-direction: column;
+    gap: 10px;
+  }
+  .rty{
+    margin-left: 310px;
+  }
+  .about{
+    flex-direction: column;
+    gap: 15px;
+  }
+  .comp{
+    width: 70vw;
+  }
+  .tod{
+    gap: 0px;
+    .tod-0{
+        margin-left: -20px;
+        b{
+            font-size: 20px;
+        }
+        h4{
+            font-size: 16px;
+        }
+    }
+  }
+  .fgfh{
+    margin-left: 100px;
+  }
+}
